@@ -1,0 +1,15 @@
+{
+  "name": "quote",
+  "version": "1.0.0",
+  "description": "Random quote generator",
+  "main": "quote.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maaz Shah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "quotesy": "^1.0.5"
+  }
+}
